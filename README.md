@@ -1,1 +1,1 @@
-Simple alert number guess game. The application will notify the player if they need to guess higher or lower to eventually guess the correct number that was generated. The application will also inform the user how many attempts it took them to guess the correct number.
+Simple alert box number guess game. The application will notify the player if they need to guess higher or lower to eventually guess the correct number that was generated. The application will also inform the user how many attempts it took them to guess the correct number.
